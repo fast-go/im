@@ -1,0 +1,4 @@
+github.com/fast-go/websocket v0.0.0-20200601064653-cd84e6c22815 h1:bKU000ruJ2vbpk7/Gheo6N+X8LNpvHCgHMus5GM9u9w=
+github.com/fast-go/websocket v0.0.0-20200601064653-cd84e6c22815/go.mod h1:EB3fo4ZeRa31X7DV6nRS8+maCaJxcjd3NNsLe1BYAyA=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
